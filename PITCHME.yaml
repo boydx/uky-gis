@@ -1,0 +1,35 @@
+background-size : cover
+footnote : "Geo Week 2020"
+# background : https://live.staticflickr.com/65535/48281702552_a986715760_k.jpg
+# background : https://live.staticflickr.com/65535/48281609191_9f0cc0d14e_k.jpg
+# background :  https://live.staticflickr.com/65535/48281701157_d52eb097da_k.jpg
+# background : https://live.staticflickr.com/835/41324256270_2b7b15b7f9_k.jpg
+# background-opacity : 20
+
+theme            : template
+
+# theme-background : [ "linear-gradient(#000, #232629)" ]
+# theme-headline   : [ "Montserrat", "white", "none" ]
+# theme-byline     : [ "Montserrat", "#white", "none" ]
+# theme-text       : [ "Lato", "#F5FFFA", "none" ]
+# theme-links      : [ "#FFD700", "#ffe862" ]
+# theme-code       : [ "Victor Mono" ] # Victor Mono Italic
+# theme-controls   : [ "#eee" ]
+# theme-margins    : [ "0px", "15px" ]
+# highlight        : hybrid
+
+theme-override : assets/pitchmd.css
+background          : assets/td.jpg
+background-position : center
+background-opacity  : 20
+theme-background : [ "linear-gradient(#000, #232629)" ]
+theme-headline   : [ "Work Sans", "white", "none", "white", "120", "120", "15" ]
+theme-byline     : [ "Work Sans", "#white", "none", "#white", "110", "110", "15" ]
+theme-text       : [ "Work Sans", "#FFFFFF", "none", "#FFFFFF", "110", "115", "15" ]
+theme-links      : [ "#FFD700", "#ffe862" ]
+theme-code       : [ "Fira Code", "120", "120" ]
+highlight        : a11y-dark
+theme-controls   : [ "#FFfdcc" ]
+theme-margins    : [ "0px", "15px" ]
+layout           : center
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END

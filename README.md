@@ -1,2 +1,2 @@
-# uky-gis
-Geography Y'all
+# geo-week
+Geography Week, Y'all!
