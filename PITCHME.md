@@ -49,6 +49,12 @@
 
 
 ---
+## Started web page
+(Note: iframe is placeholder)
+![example web page](assets/web.jpg)     
+[geography.as.uky.edu/geography-week](https://geography.as.uky.edu/geography-week)
+
+---
 ## Needs??
 * Charismatic MC
 * Presentations on "Why I'm a geographer"
