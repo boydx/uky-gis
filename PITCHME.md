@@ -1,4 +1,4 @@
----?image=assets/pot-background.jpg&opacity=0
+---?image=assets/pot-background.jpg&opacity=20
 # Geo Week
 ## November 16-20
 
