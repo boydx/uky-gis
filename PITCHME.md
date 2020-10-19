@@ -1,63 +1,62 @@
+
 ---?image=assets/pot-background.jpg&opacity=20
-# Geo Week
-## November 16-20
+# Geo Awareness Month
+## October 28 — November 18
 
 ---
 ## Overview
-* A short event each day announcing an asynchronous event. 
-* Culminates in a raffle extravaganza on Friday.
+@ul
+* A short event each Wednesday @ 3pm announcing an asynchronous event. 
+* A raffle each day for maps!
+@ulend
+
+---
+## Full schedule
+[geography.as.uky.edu/wildly-geo](https://geography.as.uky.edu/wildly-geo)
 
 
 ---
-## Some ideas for daily events...
-
----
-## Monday
+[drag=50 80, drop=0 0]
 ### Mapping & Data Viz contest
+## Oct 28
+@ul
 * Submit and vote on best viz
-* Use social platform [Woobox.com](https://woobox.com)
-* Similar to [this contest](https://thewoodlandsac.com/OPA/) voting on Critter Pageant photos
+* Prizes for Geography majors & minors
+@ulend
+[drop=right]
+![Map and Data Viz contest](assets/contest.jpg)
 
 ---
-## Tuesday
+[drag=50 80, drop=0 0]
 ### The "Wildcat" Geocache
-* Classic geocache with paper logbook
+## Nov 4
+@ul
+* High-tech treasure hunt
 * Coordinates and clues online
-* Logbook scanned and shared online Friday morning
+@ulend
+[drop=right]
+![A geocache](https://mdc.mo.gov/sites/default/files/styles/centered_full/public/media/news/geocache%20box.jpg)
 
 ---
-## Wednesday
+[drag=50 80, drop=0 0]
+### Rephotography Scavenger Hunt
+## Nov 11
+@ul
+* Discover where historic Lexington photos were taken & rephotograph from same perspective
+@ulend
+[drop=right]
+![Where is this?](assets/photo-cheapside.jpg)
+
+---
+[drag=50 80, drop=0 0]
 ### GIS Day
-* CFP for short presentations (like last year)
+## Nov 18
+@ul
 * One-hour synchronous event
-* Invite participation from UKy & wider community by sharing slidedecks, etc.
-* Add presentations to single webpage 
-
----
-## Thursday
-### Rephotogaphy Scavenger Hunt
-* Curate historic streetscape photographs from [explore.uky.edu](https://exploreuk.uky.edu/)
-* Participants discover where photos were taken & rephotograph from same perspective
-* Submit photos online
-
----
-## Friday
-### *Raffle Extravaganza!*
-* Announce winners/participants of prior events
-* Raffle with attendees using random number generator
-* Prizes from donations, e.g., I have a lot trail maps
-
-
----
-## Started web page
-(Note: iframe is placeholder)
-<!-- ![example web page](assets/web.jpg)      -->
-[geography.as.uky.edu/geography-week](https://geography.as.uky.edu/geography-week)
-
----
-## Needs??
-* Charismatic MC
-* Presentations on "Why I'm a geographer"
-* Robust campaign to attract non-majors
+* Presentations about maps!
+* Awards announced
+@ulend
+[drop=right]
+![GIS Day](assets/gis-day.jpg)
 
 ---?image=assets/wildly_geography.jpg&opacity=100
